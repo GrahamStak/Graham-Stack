@@ -1,0 +1,118 @@
+                        <div class="section full-width " style="padding-top:0px; padding-bottom:0px; background-color:#fff">
+                            <div class="section_wrapper clearfix">
+                                <div class="items_group clearfix">
+                                    <!-- One full width row-->
+                                    <div class="column one column_offer">
+                                        <div class="offer">
+                                            <ul class="offer_ul">
+                                                <li class="offer_li">
+                                                    <div class="image_wrapper"><img width="952" height="537" src="content/agency/images/colett.jpg" class="scale-with-grid wp-post-image" alt="colett" />
+                                                    </div>
+                                                    <div class="desc_wrapper">
+                                                        <div class="title">
+                                                            <h3>Colett Precision</h3><a href="#" class="button button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">View demo</span></a>
+                                                        </div>
+                                                        <div class="desc">
+                                                            <p>
+                                                                <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante lobortis.</span>
+                                                            </p>
+                                                            <div class="hr_dots">
+                                                                <span></span><span></span><span></span>
+                                                            </div>
+                                                            <h5>Nam malesuada:</h5>
+                                                            <ul class="list_mixed">
+                                                                <li class="list_check">
+                                                                    Donec blandit purus in euismod ullamcorper.
+                                                                </li>
+                                                                <li class="list_star">
+                                                                    Proin id varius felis.
+                                                                </li>
+                                                            </ul>
+                                                            <div class="idea_box">
+                                                                <div class="icon">
+                                                                    <i class="icon-lamp"></i>
+                                                                </div>
+                                                                <div class="desc">
+                                                                    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam ultricies dolor a purus varius.
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li class="offer_li">
+                                                    <div class="image_wrapper"><img width="952" height="537" src="content/agency/images/unity.jpg" class="scale-with-grid wp-post-image" alt="unity" />
+                                                    </div>
+                                                    <div class="desc_wrapper">
+                                                        <div class="title">
+                                                            <h3>Infinity Project</h3><a href="#" class="button button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">View demo</span></a>
+                                                        </div>
+                                                        <div class="desc">
+                                                            <p>
+                                                                <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante lobortis.</span>
+                                                            </p>
+                                                            <div class="hr_dots">
+                                                                <span></span><span></span><span></span>
+                                                            </div>
+                                                            <h5>Nam malesuada:</h5>
+                                                            <ul class="list_mixed">
+                                                                <li class="list_check">
+                                                                    Donec blandit purus in euismod ullamcorper.
+                                                                </li>
+                                                                <li class="list_star">
+                                                                    Proin id varius felis.
+                                                                </li>
+                                                            </ul>
+                                                            <div class="idea_box">
+                                                                <div class="icon">
+                                                                    <i class="icon-lamp"></i>
+                                                                </div>
+                                                                <div class="desc">
+                                                                    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam ultricies dolor a purus varius.
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li class="offer_li">
+                                                    <div class="image_wrapper"><img width="952" height="537" src="content/agency/images/be.jpg" class="scale-with-grid wp-post-image" alt="be" />
+                                                    </div>
+                                                    <div class="desc_wrapper">
+                                                        <div class="title">
+                                                            <h3>Be|Theme project</h3><a href="#" class="button button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">View demo</span></a>
+                                                        </div>
+                                                        <div class="desc">
+                                                            <p>
+                                                                <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante lobortis.</span>
+                                                            </p>
+                                                            <div class="hr_dots">
+                                                                <span></span><span></span><span></span>
+                                                            </div>
+                                                            <h5>Nam malesuada:</h5>
+                                                            <ul class="list_mixed">
+                                                                <li class="list_check">
+                                                                    Donec blandit purus in euismod ullamcorper.
+                                                                </li>
+                                                                <li class="list_star">
+                                                                    Proin id varius felis.
+                                                                </li>
+                                                            </ul>
+                                                            <div class="idea_box">
+                                                                <div class="icon">
+                                                                    <i class="icon-lamp"></i>
+                                                                </div>
+                                                                <div class="desc">
+                                                                    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam ultricies dolor a purus varius.
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                            </ul><a class="button button_large button_js slider_prev" href="#"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
+                                            <div class="slider_pagination">
+                                                <span class="current">1</span> / <span class="count">1</span>
+                                            </div><a class="button button_large button_js slider_next" href="#"><span class="button_icon"><i class="icon-down-open-big"></i></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
