@@ -4717,7 +4717,7 @@ html, body {
 	}
 	/* Header Creative */
 	body.header-creative {
-		padding-left: 50px;
+		/* padding-left: 50px; */
 	}
 	body.header-creative.header-open {
 		padding-left: 250px;
