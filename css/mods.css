@@ -13,8 +13,22 @@
     
 }
 
+.logo{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 300px;
+}
+
+.logo h1 {
+    color: hsl(240,4.3%,90%);
+    font-weight: 400;
+    font-size: 48px;
+    padding-bottom: 10px;
+}
+
 .head-hero h1{
-    color: white;
+    color: hsl(240,4.3%,90%);
     padding-top: 15%;
     font-weight: 400;
     font-size: 48px;
@@ -22,7 +36,7 @@
 
 }
 
-.head-hero h1 span{
+.head-hero h1 span, .logo h1 span{
     color: gold;
     font-style: italic;
 }
@@ -31,16 +45,18 @@
     font-weight: 300;
 }
 .button-up {
-    color: black;
+    color: hsl(240,50%,50%);
     background-color: gold;
-    padding: 15px;
+    padding: 25px;
     border-radius: 10px;
+    font-weight: 600;
     
 }
 .button-up:hover{
-    background-color: white;
+    background-color: hsl(240,50%,50%);
     color: gold;
     text-decoration: none;
+    font-weight: 600;
 }
 
 .head-button {
