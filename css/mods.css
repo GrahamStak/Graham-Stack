@@ -31,8 +31,8 @@
     color: hsl(240,4.3%,90%);
     padding-top: 15%;
     font-weight: 400;
-    font-size: 48px;
-    padding-bottom: 10px;
+    font-size: 90px;
+    padding-bottom: 40px;
 
 }
 
@@ -43,6 +43,8 @@
 .head-hero h2{
     color: white;
     font-weight: 300;
+    font-size: 60px;
+    line-height: 60px;
 }
 .button-up {
     color: hsl(240,50%,50%);
