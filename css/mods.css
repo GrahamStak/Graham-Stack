@@ -1,0 +1,60 @@
+.head-intro{
+    height:600px;
+    display: block;
+}
+
+.head-hero{
+    /* background: rgba(255,255,255,0.3); */
+    background: hsla(30, 10%, 45%,0.4);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 300px;
+    
+}
+
+.head-hero h1{
+    color: white;
+    padding-top: 15%;
+    font-weight: 400;
+    font-size: 48px;
+    padding-bottom: 10px;
+
+}
+
+.head-hero h1 span{
+    color: gold;
+    font-style: italic;
+}
+.head-hero h2{
+    color: white;
+    font-weight: 300;
+}
+.button-up {
+    color: black;
+    background-color: gold;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+.button-up:hover{
+    background-color: white;
+    color: gold;
+    text-decoration: none;
+}
+
+.head-button {
+    position: relative;
+    top: 0;
+    line-height: 10;
+}
+.solid{
+    color: white;
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(255, 255, 255, 0.8);
+    width: 200px;
+}
+.list_item .list_left{
+    color: gold;
+}
